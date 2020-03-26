@@ -1,0 +1,2 @@
+# carritoCompras
+Carrito de compras: El usuario podrá agregar / eliminar / consultar cursos que quiere adquirir en el carrito de compras.  Los cursos se almacenarán en LocalStorage  El carrito cargara la información almacenada de LocalStorage por si el usuario visita el sitio nuevamente.  Al quitar un curso del carrito se elimina del LocalStorage.  Tecnologías:  HTML, CSS, JAVASCRIPT Moderno ES6 / ES7 / ES8, Bootstrap, Design Responsive. 
